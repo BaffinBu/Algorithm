@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>冒泡排序.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>模拟栈操作.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -22,6 +27,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>F97354381D41D75A005DB40E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>F991A0241CB73D7E00784EFC</key>
 		<dict>
 			<key>primary</key>
