@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>模拟队列.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>深度优先搜索.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -43,6 +48,11 @@
 			<true/>
 		</dict>
 		<key>F991A03D1CB77BF700784EFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F9E6F82F1D45F2B3008BFC5C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
