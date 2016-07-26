@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>递归和尾递归.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -48,6 +53,11 @@
 			<true/>
 		</dict>
 		<key>F991A03D1CB77BF700784EFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F9B8C4761D47495E0037D28F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
